@@ -1,2 +1,2 @@
 Weather App
-[https://hidden-tor-57207.herokuapp.com/]
+https://hidden-tor-57207.herokuapp.com/
